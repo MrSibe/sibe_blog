@@ -6,7 +6,6 @@ slug: 2-union-find
 featured: false
 draft: false
 description: Learn about 第二单元 并查 with detailed explanations and examples.
-
 ---
 ## 动态连通性
 
