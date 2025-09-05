@@ -19,26 +19,26 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "GitHub",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on GitHub`,
+    href: "https://github.com/mrsibe/",
+    linkTitle: `${SITE.title}的GitHub`,
     icon: IconGitHub,
   },
   {
     name: "X",
-    href: "https://x.com/username",
-    linkTitle: `${SITE.title} on X`,
+    href: "https://x.com/Mr_Xibei",
+    linkTitle: `${SITE.title}的X`,
     icon: IconBrandX,
   },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    icon: IconLinkedin,
-  },
+  // {
+  //   name: "LinkedIn",
+  //   href: "https://www.linkedin.com/in/username/",
+  //   linkTitle: `${SITE.title} on LinkedIn`,
+  //   icon: IconLinkedin,
+  // },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    href: "mailto:hao1528411576@gmail.com",
+    linkTitle: `给${SITE.title}发邮件`,
     icon: IconMail,
   },
 ] as const;
@@ -47,37 +47,37 @@ export const SHARE_LINKS: Social[] = [
   {
     name: "WhatsApp",
     href: "https://wa.me/?text=",
-    linkTitle: `Share this post via WhatsApp`,
+    linkTitle: `在WhatsApp上分享这篇文章`,
     icon: IconWhatsapp,
   },
   {
     name: "Facebook",
     href: "https://www.facebook.com/sharer.php?u=",
-    linkTitle: `Share this post on Facebook`,
+    linkTitle: `在Facebook上分享这篇文章`,
     icon: IconFacebook,
   },
   {
     name: "X",
     href: "https://x.com/intent/post?url=",
-    linkTitle: `Share this post on X`,
+    linkTitle: `在X上分享这篇文章`,
     icon: IconBrandX,
   },
   {
     name: "Telegram",
     href: "https://t.me/share/url?url=",
-    linkTitle: `Share this post via Telegram`,
+    linkTitle: `在Telegram上分享这篇文章`,
     icon: IconTelegram,
   },
   {
     name: "Pinterest",
     href: "https://pinterest.com/pin/create/button/?url=",
-    linkTitle: `Share this post on Pinterest`,
+    linkTitle: `在Pinterest上分享这篇文章`,
     icon: IconPinterest,
   },
   {
     name: "Mail",
     href: "mailto:?subject=See%20this%20post&body=",
-    linkTitle: `Share this post via email`,
+    linkTitle: `通过邮件分享这篇文章`,
     icon: IconMail,
   },
 ] as const;
