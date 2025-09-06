@@ -1,8 +1,8 @@
 ---
-title: SkyTakout_1
+title: 苍穹外卖笔记 | Day1
 author: MrSibe
 pubDatetime: 2025-01-01T00:00:00Z
-slug: skytakout_1
+slug: skytakout-1
 featured: false
 draft: false
 description: Learn about skytakout_1 with detailed explanations and examples.

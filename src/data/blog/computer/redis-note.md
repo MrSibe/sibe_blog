@@ -1,8 +1,8 @@
 ---
-title: Redis_note
+title: Redis笔记
 author: MrSibe
 pubDatetime: 2025-01-01T00:00:00Z
-slug: redis_note
+slug: redis-note
 featured: false
 draft: false
 description: Learn about redis_note with detailed explanations and examples.

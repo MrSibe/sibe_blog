@@ -1,8 +1,8 @@
 ---
-title: 1_twoSum
+title: 两数之和
 author: MrSibe
 pubDatetime: 2025-01-01T00:00:00Z
-slug: 1_twosum
+slug: 1-twosum
 featured: false
 draft: false
 description: Learn about 1_twosum with detailed explanations and examples.

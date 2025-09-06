@@ -1,9 +1,9 @@
 ---
-title: Javaweb_note
+title: JavaWeb笔记
 author: MrSibe
 pubDatetime: 2025-01-01T00:00:00Z
 slug: javaweb_note
-featured: false
+featured: true
 draft: false
 description: Learn about javaweb_note with detailed explanations and examples.
 

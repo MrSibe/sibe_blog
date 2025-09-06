@@ -38,6 +38,7 @@ description: Learn about 第二单元 并查 with detailed explanations and exam
 public interface UF() {
 	// 连接 p 和 q
 	void union(int p, int q) {
+	
 	}
 	
 	// 检查p 和 q 是否连通
@@ -55,6 +56,7 @@ public interface UF() {
 - Union：将所有的 q 的 id 改成 id\[p\]。
 
 时间复杂度：
+
 - 初始化：O(N)
 - Connected：O(1)
 - Union：O(N)

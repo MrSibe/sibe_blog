@@ -1,5 +1,5 @@
 ---
-title: project-idea
+title: 项目太难？你可能需要工程思维
 author: MrSibe
 pubDatetime: 2025-01-01T00:00:00Z
 slug: project-idea
@@ -8,9 +8,6 @@ draft: false
 description: Learn about project idea with detailed explanations and examples.
 
 ---
-
-# 项目太难？你可能需要工程思维
-
 总聊计算机知识实在枯燥，来聊点思维上的东西祛祛乏。
 
 我自己平时在面对的数不尽的项目的时候，会真的很沮丧，因为事情多的干不完，而且有些事情是根本不知道怎么干，导致进度一再拖延，心情也是持续低落无法自拔。

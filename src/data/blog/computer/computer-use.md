@@ -1,5 +1,5 @@
 ---
-title: 计算机原来可以这么用
+title: 计算机原来可以这么用 | 压缩篇
 author: MrSibe
 pubDatetime: 2025-01-01T00:00:00Z
 slug: computer-use
@@ -8,9 +8,6 @@ draft: false
 description: Learn about 计算机原来可以这么用 with detailed explanations and examples.
 
 ---
-
-# 计算机原来可以这么用 | 压缩篇
-
 现在计算机可以说是大学生的标配，但是可能还是有很多同学都不太了解手头电脑的很多功能。比如说，部门要求把文件打包发给指定的邮箱，我该怎么打包？为什么我的 C 盘总是爆满？所以西贝今天开一个新的专栏，主要面向非计算机的同学科普一些实用的计算机使用方法。
 
 ![C盘又爆了](https://raw.githubusercontent.com/MrSibe/obsidian_images/main/C.jpg)
